@@ -1,4 +1,4 @@
 #russia{
-    color: sandybrown; background-color: aqua; font-family: Arial, Helvetica, sans-serif; font-size: 20px;
-    border: 15px; border-radius: 15px; margin: 25px; padding: 20px;
+    color: rgb(31, 30, 30); background-color: aqua; font-family: Arial, Helvetica, sans-serif; font-size: 20px;
+    border: 15px solid chocolate; border-radius: 15px; margin: 25px; padding: 20px;
 }
